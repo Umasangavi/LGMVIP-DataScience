@@ -13,3 +13,10 @@ Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
 From the given ‘Tata NSE’ dataset, predict the stock for28 days.
 
 Dataset Link:https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+# Task 3-Prediction using Decision Tree Algorithm #
+Create the Decision Tree classifier and visualize it graphically.
+
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+Dataset : https://bit.ly/3kXTdox
